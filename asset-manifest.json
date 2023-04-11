@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TestUtil-App/static/css/main.2543b9d3.css",
+    "main.js": "/TestUtil-App/static/js/main.e4ce30ec.js",
+    "static/js/787.d610ed47.chunk.js": "/TestUtil-App/static/js/787.d610ed47.chunk.js",
+    "index.html": "/TestUtil-App/index.html",
+    "main.2543b9d3.css.map": "/TestUtil-App/static/css/main.2543b9d3.css.map",
+    "main.e4ce30ec.js.map": "/TestUtil-App/static/js/main.e4ce30ec.js.map",
+    "787.d610ed47.chunk.js.map": "/TestUtil-App/static/js/787.d610ed47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.e4ce30ec.js"
+  ]
+}
